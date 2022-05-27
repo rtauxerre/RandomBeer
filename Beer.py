@@ -2,7 +2,7 @@
 # Projet tuteuré Random Beer
 # IUT Auxerre - Département Réseaux et Télécommunications
 # https://github.com/rtauxerre/RandomBeer
-# Copyright (c) 2021 Michaël Roy
+# Copyright (c) 2022 Michaël Roy
 #
 
 # Dépendance
